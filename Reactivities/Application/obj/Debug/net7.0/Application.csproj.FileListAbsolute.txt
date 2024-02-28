@@ -1,0 +1,17 @@
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/bin/Debug/net7.0/Application.deps.json
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/bin/Debug/net7.0/Application.dll
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/bin/Debug/net7.0/Application.pdb
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/bin/Debug/net7.0/Domain.dll
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/bin/Debug/net7.0/Persistence.dll
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/bin/Debug/net7.0/Domain.pdb
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/bin/Debug/net7.0/Persistence.pdb
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/obj/Debug/net7.0/Application.dll
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/obj/Debug/net7.0/Application.pdb
+/Users/usmanmalik/Desktop/Programming/ReactAndDotnet7/Reactivities/Application/obj/Debug/net7.0/ref/Application.dll
